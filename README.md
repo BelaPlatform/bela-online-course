@@ -5,7 +5,7 @@ This is the repository for the assets for the first free online Bela course, rel
 ## Frequently Asked Questions
 
 ### Where can I find this course?
-This course will be released weekly on the Bela YouTube channel. Subscribe, and enable alerts so you'll know when new lectures drop.
+This course will be released weekly on the [Bela YouTube channel](https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA/). Subscribe, and enable alerts so you'll know when new lectures drop.
 
 ### Should I know anything before starting?
 This course was designed for students who already have some digital signal processing knowledge. If you have some that's great, but if not you'll learn about these concepts in this course.
