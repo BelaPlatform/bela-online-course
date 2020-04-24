@@ -21,6 +21,22 @@ This course is co-developed by Bela (Augmented Instruments Ltd) and Queen Mary U
 * [MSc in Sound and Music Computing](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/129308.html), a one-year Master's programme
 * [PhD in Artificial Intelligence and Music](http://www.aim.qmul.ac.uk), a 4-year PhD programme with fully-funded studentships for UK and international students
 
+## Recommended parts
+
+Running the examples in this course assumes that you have a [Bela Starter Kit](https://shop.bela.io/products/bela-starter-kit) or [Bela Mini Starter Kit](https://shop.bela.io/products/bela-mini-starter-kit).
+
+Some of the lectures also work with sensors and other electronic hardware. We suggest the following components, which can be acquired from any electronics supplier:
+
+* Solderless breadboard (any size)
+* Potentiometers: at least 2, ideally 8. Choose ones that fit a breadboard.
+* Pushbuttons (tactile switches): at least 2, ideally 8.
+* LEDs: at least 2, ideally 8, various colours.
+* Resistors: 8+ 10k resistors for switches; 8+ 220 ohm resistors for LEDs.
+* Force-sensing resistor (FSR), any shape.
+* Piezo element (contact microphone), any size, with wire leads attached.
+* Jumper wires, including pin-to-socket wires.
+* A 3.5mm stereo audio cable for connecting Bela to other audio devices.
+
 ## Further reading
 
 There are many excellent textbooks and online resources for learning digital signal processing and audio programming. A few that are mentioned in the lecture include:
