@@ -20,7 +20,10 @@ This is the ideal way to learn! This course is full of concise explanations and 
 Bela's mission has always been to make high-performance computing accessible to all. This isn't just a course for engineers - this is a course geared at people who have a bit of technical knowledge, and want to improve their C++ skills by learning how to implement interaction with audio and sensors using the Bela platform.
 
 ### Where did this course come from?
-Bela was born in the [Augmented Instruments Laboratory](http://instrumentslab.org) at Queen Mary University of London, and one of its earliest applications was as a learning platform for a masters-level course called Real-Time Digital Signal Processing. This course is an online adaptation of that course. 
+Bela was born in the [Augmented Instruments Laboratory](http://instrumentslab.org) at Queen Mary University of London, and one of its earliest applications was as a learning platform for a masters-level course now called Music and Audio Programming. This course is an online adaptation of that course. That course is offered on degree programmes including:
+
+* [MSc in Sound and Music Computing](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/129308.html), a one-year Master's programme
+* [PhD in Artificial Intelligence and Music](http://www.aim.qmul.ac.uk), a 4-year PhD programme with fully-funded studentships for UK and international students
 
 ### Who's teaching it?
 This course is presented by Bela's creator, Dr Andrew McPherson. 
