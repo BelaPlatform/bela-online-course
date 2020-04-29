@@ -30,7 +30,7 @@ This course is co-developed by Bela (Augmented Instruments Ltd) and Queen Mary U
 
 Running the examples in this course assumes that you have a [Bela Starter Kit](https://shop.bela.io/products/bela-starter-kit) or [Bela Mini Starter Kit](https://shop.bela.io/products/bela-mini-starter-kit).
 
-This lecture does not require any other electronic hardware. However, other lectures will make use of sensors and other components. See [../lecture-0/](Lecture 0) for a list of recommended parts.
+This lecture does not require any other electronic hardware. However, other lectures will make use of sensors and other components. See [Lecture 0](../lecture-0) for a list of recommended parts.
 
 ## Further reading
 
