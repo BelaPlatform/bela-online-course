@@ -8,7 +8,7 @@ This is the repository for the assets for the first free online Bela course, rel
 This course will be released weekly on the [Bela YouTube channel](https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA/). Subscribe, and enable alerts so you'll know when new lectures drop.
 
 ### What will I learn in this course?
-This course is a deep dive into how Bela processes data, how to think in real time, and how to implement interaction with sensors and sound. As well as the basics of coding interaction, this course also introduces concepts of real-time processing and dives into topics like Assembly programming and audio processing.
+This course is a deep dive into how Bela processes data, how to think in real time, and how to implement interaction with sensors and sound. As well as the basics of coding interaction, this course also introduces concepts of real-time processing and dives into topics like Assembly programming and audio processing. See the below table for an overview of the topics covered:
 
 | Programming topics                                          | Music/audio topics                                               |
 |-------------------------------------------------------------|------------------------------------------------------------------|
