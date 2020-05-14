@@ -48,3 +48,5 @@ This lecture does not require any other electronic hardware. However, other lect
 
 * Paper: T. Stilson and J. O. Smith, [Alias-Free Digital Synthesis of Classic Analog Waveforms](https://ccrma.stanford.edu/~stilti/papers/blit.pdf), International Computer Music Conference, 1996.
 * Video: [The amazing usefulness of band limited impulse trains, shown for oscillator banks](https://www.youtube.com/watch?v=lpM4Tawq-XU), Stefan Stenzel, Audio Developer Conference 2017.
+* Blog post: [Band-limiting techniques for digital oscillators (metafunction.co.uk)](http://metafunction.co.uk/all-about-digital-oscillators-part-2-blits-bleps/)
+* Book: Beat Frei, [Digital Sound Generation](https://www.zhdk.ch/file/live/12/1253cbdc4679c70f0617b94877b80ffe9203764d/digital_sound_generation_1.pdf), Institute for Computer Music and Sound Technology (ICST), Zurich University of the Arts, 2019
