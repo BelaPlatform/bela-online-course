@@ -14,6 +14,7 @@ wavetable-class: an example that implements a wavetable oscillator as a C++ clas
 #include <Bela.h>
 #include <libraries/Gui/Gui.h>
 #include <libraries/GuiController/GuiController.h>
+#include <libraries/Scope/Scope.h>
 #include <cmath>
 #include <vector>
 
@@ -22,6 +23,9 @@ wavetable-class: an example that implements a wavetable oscillator as a C++ clas
 // Browser-based GUI to adjust parameters
 Gui gui;
 GuiController controller;
+
+// Browser-based oscilloscope
+Scope gScope;
 
 // Wavetable oscillator
 Wavetable gOscillator;
@@ -43,6 +47,9 @@ bool setup(BelaContext *context, void *userData)
 	// Set up the GUI
 	gui.setup(context->projectName);
 	controller.setup(&gui, "Wavetable Controller");	
+
+	// Set up the oscilloscope
+	gScope.setup(1, context->audioSampleRate);
 	
 	// Arguments: name, default value, minimum, maximum, increment
 	controller.addSlider("Frequency", 220, 55, 440, 0);
@@ -67,6 +74,9 @@ void render(BelaContext *context, void *userData)
 			// Write the sample to every audio output channel
     		audioWrite(context, n, channel, out);
     	}
+
+		// Log the output to the oscilloscope
+		gScope.log(out);
     }
 }
 
