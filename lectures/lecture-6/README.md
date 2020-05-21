@@ -16,9 +16,9 @@ This lecture explains how to work with analog input and output on Bela. This is 
 
 ## Code examples
 
-**vco**: 
+**vco**: Voltage-controlled oscillator example. During the lecture this is converted from using the GUI sliders to using the analog inputs.
 
-**vco-analog-out**: 
+**vco-analog-out**: Extension of the `vco` project which includes a pulsating LED showing the beats between oscillators.
 
 ## About this course
 
