@@ -27,11 +27,7 @@ This course is co-developed by Bela (Augmented Instruments Ltd) and Queen Mary U
 
 ## Recommended parts
 
-Running the examples in this course assumes that you have a [Bela Starter Kit](https://shop.bela.io/products/bela-starter-kit) or [Bela Mini Starter Kit](https://shop.bela.io/products/bela-mini-starter-kit). Note that the analog outputs are only available on the original Bela board, and not on Bela Mini.
-
-This lecture also presents a demo with an oscilloscope and a function generator. You don't need to have these to follow along with the example, but if you do, you can repeat the test for yourself.
-
-To use the automatic latency tester project, you will need a loopback cable: either a 3.5mm stereo audio cable or socket wires to connect between Bela's audio input and audio output.
+Running the examples in this course assumes that you have a [Bela Starter Kit](https://shop.bela.io/products/bela-starter-kit) or [Bela Mini Starter Kit](https://shop.bela.io/products/bela-mini-starter-kit).
 
 ## Further reading
 
