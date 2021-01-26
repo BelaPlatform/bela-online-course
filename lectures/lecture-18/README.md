@@ -3,7 +3,7 @@
 ## [Watch Lecture 18 on YouTube](https://www.youtube.com/watch?v=xGmRaTaBNZA)
 
 
-This lecture continues a series on block-based processing, and is the first of two lectures on the phase vocoder, a powerful tool for manipulating audio in the frequency domain. This lecture covers the overlap-add technique, a common approach to dividing a signal into blocks, manipulating it in the frequency domain, then reconstructing it.
+This lecture continues a series on block-based processing, and is the first of three lectures on the phase vocoder, a powerful tool for manipulating audio in the frequency domain. This lecture covers the overlap-add technique, a common approach to dividing a signal into blocks, manipulating it in the frequency domain, then reconstructing it.
 
 This lecture also introduces multi-threaded audio processing, showing how to move time-consuming calculations into a lower priority real-time thread.
 
