@@ -6,7 +6,7 @@ This lecture introduces MIDI, the industry standard protocol for communicating b
 
 ## What you'll learn in this lecture
 
-* Introduction to the MIDI protocl
+* Introduction to the MIDI protocol
 * Handling Note On and Note Off messages
 * Keeping track of multiple notes
 
